@@ -4,6 +4,10 @@ RIDE est un dashboard interactif développé avec Streamlit pour analyser un dat
 
 L'objectif du projet est d'aider un utilisateur à explorer le marché automobile selon plusieurs critères : marque, budget, année, kilométrage et type de carburant.
 
+## Application en ligne
+
+[Accéder au dashboard RIDE](https://ride-dashboard-uam5nutdnhgxhzjsmtmrur.streamlit.app/)
+
 ## Aperçu du dashboard
 
 ![Aperçu du dashboard RIDE](images/dashboard.png)
